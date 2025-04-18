@@ -2,8 +2,8 @@
 
 ## 🧑‍💻 Autores  
 - Guilherme Leite (202421250009) - guilherme.rolim@academico.ifpb.edu.br  
+- Augusto Ferrer (202421250013) - email
 - Aiko Ian (202421250019) - aiko.ian@academico.ifpb.edu.br  
-- Augusto Ferrer (202421250013) - email   
 
 ## 🎯 Tema e Motivação  
 Este projeto tem como objetivo analisar dados de popularidade de músicas no Spotify para identificar padrões e fatores que influenciam o sucesso de uma faixa. A escolha deste tema surgiu do interesse em compreender como características musicais — como energia, dançabilidade, valência e tempo — estão relacionadas ao desempenho das músicas na plataforma.
