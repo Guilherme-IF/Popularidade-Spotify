@@ -6,7 +6,7 @@
 - Aiko Ian (202421250019) - aiko.ian@academico.ifpb.edu.br  
 
 ## 🎯 Tema e Motivação  
-Este projeto tem como objetivo analisar dados de popularidade de músicas no Spotify para identificar padrões e fatores que influenciam o sucesso de uma faixa. A escolha deste tema surgiu do interesse em compreender como características musicais — como energia, dançabilidade, valência e tempo — estão relacionadas ao desempenho das músicas na plataforma.
+Este projeto tem como objetivo analisar dados de popularidade de músicas no Spotify para identificar padrões e fatores que influenciam o sucesso de uma faixa. A escolha deste tema surgiu do interesse em compreender como características musicais — como energia, valência, dançabilidade e tempo — estão relacionadas ao desempenho das músicas na plataforma.
 
 Entender esses padrões pode fornecer insights valiosos para artistas, gravadoras e profissionais da área musical, além de permitir a aplicação prática de técnicas estatísticas sobre dados reais de consumo cultural digital.
 
