@@ -2,7 +2,7 @@
 
 ## 🧑‍💻 Autores  
 - Guilherme Leite (202421250009) - guilherme.rolim@academico.ifpb.edu.br  
-- Augusto Ferrer (202421250013) - email
+- Augusto Ferrer (202421250013) - augusto.ferrer@academico.ifpb.edu.br
 - Aiko Ian (202421250019) - aiko.ian@academico.ifpb.edu.br  
 
 ## 🎯 Tema e Motivação  
