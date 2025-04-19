@@ -26,6 +26,8 @@ Entender esses padrões pode fornecer insights valiosos para artistas, gravadora
 ---
 
 ## ❓ Perguntas ou Hipóteses    
+- Quais características sonoras mais influenciam na popularidade de uma música?
+
 - Existe diferença na popularidade média entre gêneros musicais?
 
 - Artistas solo e bandas apresentam diferenças em termos de popularidade?
