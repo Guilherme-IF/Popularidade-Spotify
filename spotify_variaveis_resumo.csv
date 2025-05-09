@@ -1,0 +1,18 @@
+Tipo de Variável,Nome da Variável,Descrição
+Quantitativa,Beats.Per.Minute,Tempo da música (BPM)
+Quantitativa,Energy,Nível de energia da música
+Quantitativa,Danceability,Facilidade para dançar
+Quantitativa,Loudness,Volume médio (dB)
+Quantitativa,Liveness,Probabilidade de gravação ao vivo
+Quantitativa,Valence,Positividade da música
+Quantitativa,Length,Duração da música (segundos)
+Quantitativa,Acousticness,Confiança de ser acústica
+Quantitativa,Speechiness,Presença de palavras faladas
+Quantitativa,Popularity,Popularidade da música
+Qualitativa,Index,Identificador único
+Qualitativa,Title,Título da música
+Qualitativa,Artist,Nome do artista ou banda
+Qualitativa,Top Genre,Gênero musical
+Qualitativa,Year,Ano de lançamento
+N° de registros = 1.944,,
+N° de variáveis = 1.944,,
